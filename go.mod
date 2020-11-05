@@ -1,5 +1,7 @@
 module github.com/hieven/go-instagram
 
+go 1.15
+
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/elazarl/goproxy v0.0.0-20181111060418-2ce16c963a8a // indirect
